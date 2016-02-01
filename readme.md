@@ -29,7 +29,7 @@ firefoxIsAndroid('unicorns');
 
 #### input
 
-*Required*  
+*Required*
 Type: `string`
 
 Lorem ipsum.
@@ -38,7 +38,7 @@ Lorem ipsum.
 
 ##### foo
 
-Type: `boolean`  
+Type: `boolean`
 Default: `false`
 
 Lorem ipsum.
@@ -54,11 +54,11 @@ Lorem ipsum.
 MIT © [sanemat](http://sane.jp)
 
 
-[travis-url]: https://travis-ci.org/sanemat/firefox-is-android
-[travis-image]: https://img.shields.io/travis/sanemat/firefox-is-android/master.svg?style=flat-square&label=build%20%28linux%29
+[travis-url]: https://travis-ci.org/dogwalk/firefox-is-android
+[travis-image]: https://img.shields.io/travis/dogwalk/firefox-is-android/master.svg?style=flat-square&label=build%20%28linux%29
 [appveyor-url]: https://ci.appveyor.com/project/sanemat/firefox-is-android/branch/master
 [appveyor-image]: https://img.shields.io/appveyor/ci/sanemat/firefox-is-android/master.svg?style=flat-square&label=build%20%28windows%29
 [npm-url]: https://npmjs.org/package/firefox-is-android
 [npm-image]: https://img.shields.io/npm/v/firefox-is-android.svg?style=flat-square
-[daviddm-url]: https://david-dm.org/sanemat/firefox-is-android
-[daviddm-image]: https://img.shields.io/david/sanemat/firefox-is-android.svg?style=flat-square
+[daviddm-url]: https://david-dm.org/dogwalk/firefox-is-android
+[daviddm-image]: https://img.shields.io/david/dogwalk/firefox-is-android.svg?style=flat-square
