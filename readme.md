@@ -4,6 +4,8 @@
 
 > Return true if there is firefox android in firefox addon.
 
+See: [Code_snippets#Supporting_both_desktop_and_mobile](https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/Code_snippets#Supporting_both_desktop_and_mobile)
+
 
 ## Install
 
