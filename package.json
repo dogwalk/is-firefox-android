@@ -1,5 +1,5 @@
 {
-  "name": "firefox-is-android",
+  "name": "is-firefox-android",
   "description": "Return true if there is firefox android in firefox addon",
   "version": "1.0.0",
   "author": {
@@ -30,7 +30,7 @@
     "jetpack"
   ],
   "license": "MIT",
-  "repository": "dogwalk/firefox-is-android",
+  "repository": "dogwalk/is-firefox-android",
   "scripts": {
     "changelog": "conventional-changelog -i changelog.md --overwrite --preset angular",
     "eclint": "globstar --ignore \"node_modules/**\" -- eclint check \"*.{js,yml,md,json}\"",
