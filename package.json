@@ -12,6 +12,7 @@
     "conventional-changelog": "*",
     "eclint": "*",
     "eslint": "*",
+    "eslint-config-airbnb": "^4.0.0",
     "fixpack": "*",
     "globstar": "*",
     "npm-check-updates": "*"
