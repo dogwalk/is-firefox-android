@@ -17,16 +17,19 @@
     "npm-check-updates": "*"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
   },
   "files": [
     "index.js"
   ],
   "keywords": [
-    ""
+    "addon",
+    "firefox",
+    "jetpack"
   ],
   "license": "MIT",
-  "repository": "sanemat/firefox-is-android",
+  "repository": "dogwalk/firefox-is-android",
   "scripts": {
     "changelog": "conventional-changelog -i changelog.md --overwrite --preset angular",
     "eclint": "globstar --ignore \"node_modules/**\" -- eclint check \"*.{js,yml,md,json}\"",
