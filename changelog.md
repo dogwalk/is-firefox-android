@@ -6,7 +6,7 @@
 
 ### Features
 
-* **android:** add android? ([b78fbde](https://github.com/dogwalk/firefox-is-android/commit/b78fbde))
+* **android:** add android? ([b78fbde](https://github.com/dogwalk/is-firefox-android/commit/b78fbde))
 
 
 
