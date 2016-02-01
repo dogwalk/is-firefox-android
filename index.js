@@ -1,10 +1,7 @@
-'use strict';
-module.exports = function (str, opts) {
-  if (typeof str !== 'string') {
-    throw new TypeError('Expected a string');
-  }
+// https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/Code_snippets#Supporting_both_desktop_and_mobile
+const { Cc, Ci } = require('chrome');
 
-  opts = opts || {};
-
-  return str + ' & ' + (opts.postfix || 'rainbows');
-};
+module.exports = () =>
+Cc['@mozilla.org/xre/app-info;1']
+  .getService(Ci.nsIXULRuntime)
+  .widgetToolkit.toLowerCase() === 'android';
