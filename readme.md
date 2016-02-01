@@ -2,7 +2,7 @@
 
 [![NPM version][npm-image]][npm-url] [![Travis-CI Status][travis-image]][travis-url] [![Appveyor Status][appveyor-image]][appveyor-url] [![Daviddm Status][daviddm-image]][daviddm-url]
 
-> My spectacular module
+> Return true if there is firefox android in firefox addon.
 
 
 ## Install
@@ -17,31 +17,17 @@ $ npm install --save firefox-is-android
 ```js
 var firefoxIsAndroid = require('firefox-is-android');
 
-firefoxIsAndroid('unicorns');
-//=> unicorns & rainbows
+firefoxIsAndroid();
+//=> true || false
 ```
 
 
 
 ## API
 
-### firefoxIsAndroid(input, [options])
+### firefoxIsAndroid() -> Boolean
 
-#### input
-
-*Required*
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `boolean`
-Default: `false`
-
-Lorem ipsum.
+Return true if there is firefox android in firefox addon.
 
 
 ## Changelog
