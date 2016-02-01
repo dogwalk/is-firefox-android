@@ -1,7 +1,7 @@
 {
   "name": "firefox-is-android",
   "description": "Return true if there is firefox android in firefox addon",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": {
     "name": "sanemat",
     "email": "o.gata.ken@gmail.com",
