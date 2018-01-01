@@ -1,3 +1,5 @@
+**IT DOES NOT WORK.**
+
 # is-firefox-android
 
 [![NPM version][npm-image]][npm-url] [![Travis-CI Status][travis-image]][travis-url] [![Appveyor Status][appveyor-image]][appveyor-url] [![Daviddm Status][daviddm-image]][daviddm-url]
